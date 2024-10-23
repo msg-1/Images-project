@@ -1,12 +1,14 @@
-useEffect --> tanstack query.
 
-useEffect(()=>{
-API
-setTimeout
-setInterval
+### Images project
 
-    ()=>{
-        clean up  function
-    }
+## Tech stack present
+- REACT
+- UNSPLASH API
+- HTML
+- CSS
+- JS
 
-},[dependency])
+  ## FEATURES
+  - user can search for any images based on query.
+  - the searched query images are show below.
+  - the application supports media queries
